@@ -8,8 +8,8 @@ As we can't remember everything, users frequently forget to buy the things they 
 # Screenshot of the Application
 
 ## 1) Adding Grocery to the Application
+![Screenshot_20220913_221332](https://user-images.githubusercontent.com/91696273/189961723-82f57ca6-8f10-45e6-8911-21a4641987a7.png)
 
-![Screenshot_20220913_221332](https://user-images.githubusercontent.com/91696273/189960580-25072631-a162-4b6b-a8e1-5dc2747d85ea.png)
 
-![Screenshot_20220913_221446](https://user-images.githubusercontent.com/91696273/189960625-610f9be6-5387-424f-a0ea-d7b97561f866.png)
+
 
